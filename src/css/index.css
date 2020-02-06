@@ -1,0 +1,28 @@
+.profilePhoto {
+  width: 30%;
+  border-radius: 50%;
+}
+
+.responsiveVideo {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+
+.responsiveVideo iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 80%;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.7rem;
+}
+
+p {
+  font-size: 1.7rem;
+}
