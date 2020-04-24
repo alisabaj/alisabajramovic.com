@@ -263,13 +263,13 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: black;
+  color: rgb(2, 100, 87);
   background-color: white;
   padding: 1rem;
 }
 a:hover {
   color: white;
-  /* background-color: rgb(2, 100, 87); */
+  background-color: rgb(2, 100, 87);
   cursor: pointer;
 }
 
