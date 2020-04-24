@@ -13,6 +13,10 @@ h2 {
 }
 
 h3 {
+  letter-spacing: 0.2rem;
+  margin: 0 auto;
+  font-size: 2.5rem;
+  font-weight: 300;
 }
 
 h4 {
@@ -24,9 +28,6 @@ a {
 p {
 }
 /* Sections */
-.row {
-  margin-top: 2rem;
-}
 
 /* Home Section */
 #home {
@@ -38,6 +39,18 @@ p {
 .profilePhoto {
   width: 30%;
   border-radius: 50%;
+}
+
+/* About Me Section */
+#aboutme {
+  text-align: center;
+  background-color: #9cb576;
+}
+
+.textSections {
+  text-align: center;
+  background-color: #f2ebd5;
+  margin-top: 1rem;
 }
 
 .responsiveVideo {
