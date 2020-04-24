@@ -193,7 +193,7 @@ body {
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-h1,
+/* h1,
 h2,
 h3,
 h4,
@@ -232,10 +232,10 @@ h6 {
   font-size: 1.5rem;
   line-height: 1.6;
   letter-spacing: 0;
-}
+} */
 
 /* Larger than phablet */
-@media (min-width: 550px) {
+/* @media (min-width: 550px) {
   h1 {
     font-size: 5rem;
   }
@@ -258,11 +258,11 @@ h6 {
 
 p {
   margin-top: 0;
-}
+} */
 
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-a {
+/* a {
   color: rgb(2, 100, 87);
   background-color: white;
   padding: 1rem;
@@ -276,11 +276,11 @@ a:hover {
 #contactMeSection a:hover {
   cursor: pointer;
   background-color: white;
-}
+} */
 
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-ul {
+/* ul {
   list-style: circle inside;
 }
 ol {
@@ -314,11 +314,11 @@ i {
 
 i:hover {
   cursor: pointer;
-}
+} */
 
 /* Spacing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-button,
+/* button,
 .button {
   margin-bottom: 1rem;
 }
@@ -338,16 +338,16 @@ ul,
 ol,
 form {
   margin-bottom: 2.5rem;
-}
+} */
 
 /* Misc
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-hr {
+/* hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
   border-width: 0;
   border-top: 1px solid #e1e1e1;
-}
+} */
 
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
