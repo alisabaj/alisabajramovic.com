@@ -269,7 +269,7 @@ a {
 }
 a:hover {
   color: white;
-  background-color: rgb(2, 100, 87);
+  /* background-color: rgb(2, 100, 87); */
   cursor: pointer;
 }
 
@@ -277,7 +277,6 @@ a:hover {
   cursor: pointer;
   background-color: white;
 }
-
 
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -316,8 +315,6 @@ i {
 i:hover {
   cursor: pointer;
 }
-
-
 
 /* Spacing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
