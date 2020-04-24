@@ -117,6 +117,13 @@ p {
   padding: 2rem;
 }
 
+/* My Projects */
+#myProjects {
+  margin-top: 2rem;
+  text-align: center;
+  background-color: #9cb576;
+}
+
 .responsiveVideo {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
