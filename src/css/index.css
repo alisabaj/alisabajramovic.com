@@ -1,3 +1,38 @@
+/* Typography */
+h1 {
+}
+
+h2 {
+}
+
+h3 {
+}
+
+h4 {
+}
+
+a {
+}
+
+p {
+}
+/* Sections */
+.row {
+  margin-top: 2rem;
+}
+
+/* Home Section */
+#home {
+  text-align: center;
+  background-color: #f27649;
+  padding: 2rem;
+  margin: 0 auto;
+}
+.profilePhoto {
+  width: 30%;
+  border-radius: 50%;
+}
+
 .responsiveVideo {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
@@ -62,34 +97,3 @@
     text-align: left;
   }
 }
-.profilePhoto {
-  width: 30%;
-  border-radius: 50%;
-}
-/* 
-
-
-
-.responsiveVideo {
-  position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 25px;
-  height: 0;
-}
-
-.responsiveVideo iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 80%;
-  height: 80%;
-}
-
-a {
-  text-decoration: none;
-  font-size: 1.7rem;
-}
-
-p {
-  font-size: 1.7rem;
-} */
