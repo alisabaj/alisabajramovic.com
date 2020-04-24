@@ -10,6 +10,7 @@
     "acorn": "^7.1.1",
     "gh-pages": "^2.2.0",
     "minimist": "^1.2.5",
+    "openup": "^1.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-fontawesome": "^1.7.1",
