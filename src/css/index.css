@@ -92,6 +92,18 @@ p {
   font-size: 2.4rem;
 }
 
+#contactMeLinkContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#contactme {
+  margin-top: 2rem;
+  background-color: #3f585a;
+  text-align: center;
+  padding: 2rem;
+}
+
 /* Home Section */
 #home {
   text-align: center;
@@ -122,6 +134,12 @@ p {
   margin-top: 2rem;
   text-align: center;
   background-color: #9cb576;
+}
+
+.projectDescriptions {
+  margin: 0 auto;
+  padding: 0% 5%;
+  text-align: center;
 }
 
 .responsiveVideo {
