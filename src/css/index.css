@@ -43,10 +43,10 @@ a {
 .navContainer {
   display: flex;
   justify-content: space-evenly;
-  background-color: #3f585a;
+  background-color: #082e4f;
 }
 .topnav {
-  background-color: #3f585a;
+  background-color: #082e4f;
   overflow: hidden;
 }
 
@@ -61,7 +61,7 @@ a {
 }
 
 .topnav a:hover {
-  background-color: #9cb576;
+  background-color: #bfbefc;
   color: black;
 }
 
@@ -109,7 +109,7 @@ a {
 
 #contactme {
   margin-top: 2rem;
-  background-color: #3f585a;
+  background-color: #082e4f;
   text-align: center;
   padding: 2rem;
 }
@@ -117,7 +117,7 @@ a {
 /* Home Section */
 #home {
   text-align: center;
-  background-color: #f27649;
+  background-color: #bfbefc;
   padding: 2rem;
   margin: 0 auto;
 }
@@ -129,12 +129,13 @@ a {
 /* About Me Section */
 #aboutme {
   text-align: center;
-  background-color: #9cb576;
+  background-color: #4c3c8f;
+  color: white;
 }
 
 .textSections {
   text-align: center;
-  background-color: #f2ebd5;
+  background-color: #fae7d9;
   margin-top: 1rem;
   padding: 2rem;
 }
@@ -143,7 +144,8 @@ a {
 #myprojects {
   margin-top: 2rem;
   text-align: center;
-  background-color: #9cb576;
+  background-color: #4c3c8f;
+  color: white;
 }
 
 .projectDescriptions {
